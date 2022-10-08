@@ -4,6 +4,7 @@ public class AlramA implements Alram{
 
     @Override
     public String beep() {
+
         return "aaaaaaaa!";
     }
 }

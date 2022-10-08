@@ -1,4 +1,4 @@
-package com.example.coding_interview_study_code.solid.srp2.bad;
+package com.example.coding_interview_study_code.solid.srp.bad;
 
 public class Person {
 

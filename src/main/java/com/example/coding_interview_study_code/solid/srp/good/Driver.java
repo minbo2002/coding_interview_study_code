@@ -1,4 +1,4 @@
-package com.example.coding_interview_study_code.solid.srp2.good;
+package com.example.coding_interview_study_code.solid.srp.good;
 
 public class Driver {
 

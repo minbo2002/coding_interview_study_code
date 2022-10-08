@@ -1,9 +1,15 @@
 package com.example.coding_interview_study_code.solid.lsp.good;
 
-public class Square extends Shape {
+public class Square implements Shape {
 
-    public Square(int width) {
-        this.width = width;
-        this.height = width;
+    int length;
+
+    @Override
+    public int getArea() {
+        return length * length;
+    }
+
+    public Square(int length) {
+        this.length = length;
     }
 }
